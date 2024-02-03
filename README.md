@@ -3,8 +3,8 @@
 #### Technical Skills: Data Entry · Tableau · Data Presentation · Machine Learning · Python (Programming Language) · Data Visualization · Computer Literacy · Statistical Data Analysis · Data Modeling · Matplotlib · MapReduce · Keras · NumPy · pandas · Cloud Computing · Forecasting · Hadoop · Scikit-Learn · Image Processing · Data Models · Microsoft Excel · Presentation Skills · MATLAB
 
 ## Education							       		
-- M.S., Data Science	| The University of Regina at Saskatchewan, Canada (_April 2024_)	 			        		
-- B.S., Computer Science | Covenant University at Ota, Nigeria (_October 2021_)
+- M.S., Data Science	| The University of Regina, Saskatchewan Canada (_April 2024_)	 			        		
+- B.S., Computer Science | Covenant University, Ota Nigeria (_October 2021_)
 
 ## Work Experience
 **Data Analyst Intern @ Accenture (_April 2022 - December 2022_)**
@@ -28,12 +28,12 @@
 ## Projects
 ### Home Price Prediction
 
-▪Performed exploratory data analysis on the dataset to draw insights.
-▪Constructed visualizations like confusion matrix to gather relationships between variables.
-▪Built three regression models, Linear regression, Ridge regression, and Random Forest regression.
-▪Achieved an accuracy of 88% in the prediction prices of houses.
+- Performed exploratory data analysis on the dataset to draw insights.
+- Constructed visualizations like confusion matrix to gather relationships between variables.
+- Built three regression models, Linear regression, Ridge regression, and Random Forest regression.
+- Achieved an accuracy of 88% in the prediction prices of houses.
 
-![Home Proce Predictions](/assets/img/eeg_band_discovery.jpeg)
+![Home Proce Predictions](//assets/img/eeg_band_discovery.jpeg)
 
 
 

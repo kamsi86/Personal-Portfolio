@@ -33,15 +33,30 @@
 - Built three regression models, Linear regression, Ridge regression, and Random Forest regression.
 - Achieved an accuracy of 88% in the prediction prices of houses.
 
-![Home Proce Predictions](//assets/img/eeg_band_discovery.jpeg)
+![Home Price Predictions](/home.png)
+
+### Semantic Analysis on Tweets
+
+- Gathered random tweets based on emotions.
+- Performed Natural Language Processing using NLTK.
+- Extracted some parameters from the data to be presented numerically using Feature Engineering.
+- Performed sentiment analysis using multinomial Naive Bayes classifier, Linear SVM, Logistic Regression, and Random Forest models.
+- Gathered random tweets based on emotions. ▪Performed Natural Language Processing using NLTK.
+- Extracted some parameters from the data to be presented numerically using Feature Engineering.
+- Performed sentiment analysis using multinomial Naive Bayes classifier, Linear SVM, Logistic Regression, and Random Forest models.
+
+![Semantic Analysis](/semantic.png)
 
 
+### Time Series Analysis
+
+- Cleaned & and analyzed time series data by developing various models namely, ARMA, ARIMA, SARIMA, and LSTM
+- Built predictive models in Python to forecast monthly prices of methanol.
+- Improved efficiency of all the models by Hyperparameter tuning
+
+![Time Series Analysis](/time.png)
 
 
-
-
-
-
-
+- [Linkedin](www.linkedin.com/in/odili-kamsiyo)
 
 

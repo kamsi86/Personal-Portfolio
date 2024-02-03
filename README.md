@@ -3,7 +3,7 @@
 #### Technical Skills: Data Entry · Tableau · Data Presentation · Machine Learning · Python (Programming Language) · Data Visualization · Computer Literacy · Statistical Data Analysis · Data Modeling · Matplotlib · MapReduce · Keras · NumPy · pandas · Cloud Computing · Forecasting · Hadoop · Scikit-Learn · Image Processing · Data Models · Microsoft Excel · Presentation Skills · MATLAB
 
 ## Education							       		
-- M.S., Data Science	| The University of Regina, Saskatchewan Canada (_April 2024_)	 			        		
+- M.S., Data Science	| University of Regina, Saskatchewan Canada (_April 2024_)	 			        		
 - B.S., Computer Science | Covenant University, Ota Nigeria (_October 2021_)
 
 ## Work Experience
